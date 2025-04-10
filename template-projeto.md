@@ -1,17 +1,17 @@
 # 📄 Template de Projeto de Iniciação Científica  
-*Este modelo segue diretrizes inspiradas nos editais da FAPESP e pode ser adaptado conforme a necessidade do projeto*
 
----
 
 ## 🧪 TÍTULO DO PROJETO
 
 > Escreva um título claro, objetivo e representativo do tema da pesquisa.
 
+<br>
 
 ## 🔍 RESUMO
 
 > Em até 20 linhas, apresente o objetivo central do projeto, a metodologia proposta e os resultados esperados. Esta parte deve ser escrita ao final, após a elaboração completa do projeto.
 
+<br>
 
 ## 🧭 INTRODUÇÃO E JUSTIFICATIVA
 
@@ -19,6 +19,7 @@
 >  
 > Apresente brevemente o que já se sabe sobre o assunto (com base na bibliografia existente) e justifique por que vale a pena estudá-lo.
 
+<br>
 
 ## 🎯 OBJETIVOS
 
@@ -33,16 +34,7 @@
 > Aplicar a metodologia X para análise dos dados;  
 > Comparar os resultados obtidos com estudos anteriores;  
 
-
-## 📚 REVISÃO BIBLIOGRÁFICA
-
-> Apresente os principais autores, teorias e trabalhos acadêmicos que fundamentam sua proposta.  
->  
-> Ferramentas úteis:  
-> [Connected Papers](https://www.connectedpapers.com/)  
-> Bases de dados acadêmicas (Google Scholar, Scielo, Scopus, etc.)  
-> Seleção e pesquisa por palavras-chave  
-
+<br>
 
 ## 🛠️ METODOLOGIA
 
@@ -83,8 +75,12 @@ Utilize esse [**template**](https://docs.google.com/spreadsheets/d/1sBZJ6VwQgBCn
 
 ## 📎 REFERÊNCIAS BIBLIOGRÁFICAS
 
-> Liste todas as obras citadas no projeto, no padrão ABNT.  
->  
+> Apresente os principais autores, teorias e trabalhos acadêmicos que fundamentam sua proposta.  Liste todas as obras citadas no projeto, no padrão ABNT.  
+>
 > **Exemplo:**  
 > SANTOS, Boaventura de Sousa. *Um discurso sobre as ciências*. 23ª ed. São Paulo: Cortez, 2019.
 
+**Explorar:**  
+[Connected Papers](https://www.connectedpapers.com/)  
+Bases de dados acadêmicas (Google Scholar, Scielo, Scopus, etc.)  
+Seleção e pesquisa por palavras-chave    

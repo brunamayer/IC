@@ -3,6 +3,7 @@
 
 A Iniciação Científica (IC) corresponde ao momento em que o estudante de graduação acrescenta à sua formação superior uma das atividades mais importantes da vida acadêmica: o estudo de temas específicos voltados para a **produção de conhecimento**. O estudante ocupa o lugar de sujeito de um coletivo que **inventa, produz, descobre e compartilha** conquistas que são de todos. ([Manual IC ECA-USP, 2021](https://www.eca.usp.br/sites/default/files/inline-files/manual_ic_4.2021_2.pdf))
 
+<br>
 
 ### 🎯 OBJETIVOS E COMPROMISSOS
 
@@ -11,12 +12,13 @@ A Iniciação Científica (IC) corresponde ao momento em que o estudante de grad
 - Submeter o artigo a um **congresso ou periódico científico**.  
 - Entregar um **relatório final** com os resultados da pesquisa.
 
+<br>
 
 ### 📂 MATERIAIS DISPONÍVEIS NESTE REPOSITÓRIO
 
 - [`📄 Template Projeto de Iniciação Científica`](./template-projeto.md)  
-- [`📘 Exemplos de Metodologias`](./conhecendo-metodologias.md)
 
+<br> 
 
 ### 🔗 LINKS EXTERNOS ÚTEIS
 
