@@ -16,7 +16,12 @@ A Iniciação Científica (IC) corresponde ao momento em que o estudante de grad
 
 ### 📂 MATERIAIS DISPONÍVEIS NESTE REPOSITÓRIO
 
-- [`📄 Template Projeto de Iniciação Científica`](./template-projeto.md)  
+- [`📄 Template Projeto de Iniciação Científica`](./template-projeto.md)
+- [`📅 Template Cronograma`](https://docs.google.com/spreadsheets/d/1sBZJ6VwQgBCnR_fh5zgpyhxsVSxikD7C/edit?usp=sharing&ouid=103942279604515028708&rtpof=true&sd=true)
+- [`📖 Template Tabela de Leituras`](https://docs.google.com/spreadsheets/d/1QAomjgwWFYtbDZdlw7YQD8ZNkhV179kcSZE2OTQcEyc/edit?usp=sharing)
+- [`📜 Template Fichamentos`](https://docs.google.com/document/d/1KsjJX6X1zuJdBF8-vy82pIHuATiYwdy01Wp5Kx5drj8/edit?usp=sharing)
+
+
 
 <br> 
 
